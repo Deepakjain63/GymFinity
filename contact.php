@@ -10,12 +10,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
-    <title>Contact Me</title>
+    <title>Contact Us</title>
 
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f8f9fa;
         }
 
         header {
@@ -31,7 +30,7 @@
         }
 
         .feature-box {
-            background-color: #fff;
+            background-color: #fff; /* Light background color */
             padding: 20px;
             border-radius: 8px;
             margin-bottom: 20px;
@@ -83,7 +82,7 @@
             <div class="feature-box col-md-4">
                 <a href="mailto:nitinyadav20446@gmail.com"><box-icon type='logo' name='gmail' class="icon"></box-icon></a>
                 <h2>E-mail</h2>
-                <p>Mail your questions  if you want to ask any question</p>
+                <p>Mail your questions if you want to ask any question</p>
             </div>
             <div class="feature-box col-md-4">
                 <a href="./Question1.php"><box-icon name='message-rounded-dots' type='solid' class="icon"></box-icon></a>

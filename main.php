@@ -75,10 +75,10 @@ body {
   <li class="current"><a href="#" data-hover="Home">Home</a></li>
   <li><a href="#" data-hover="Images">Images </a></li>  
   <li><a href="bmi.php" data-hover="Check your fitness">Check your fitness </a></li>
-  <li><a href="#" data-hover="Home workout">Home workout</a></li>
-  <li><a href="#" data-hover="Join">Join</a></li>
-  <li><a href="#" data-hover="About Us">About Us</a></li>
-  <li><a href="#" data-hover="Contact">Contact</a></li>
+  <li><a href="home.php" data-hover="Home workout">Home workout</a></li>
+  <li><a href="plan.php" data-hover="Join">Join</a></li>
+  <li><a href="#abt" data-hover="About Us">About Us</a></li>
+  <li><a href="contact.php" data-hover="Contact">Contact</a></li>
 
 </ul>
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
@@ -98,7 +98,11 @@ body {
     </div>
   </div>
 </div>
+<?php include_once("homeexi.php"); ?>
+
 <?php include_once("key.php"); ?>
+
+<?php include_once("footer.php"); ?>
 
     
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

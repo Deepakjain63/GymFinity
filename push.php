@@ -1,3 +1,4 @@
+<?php include_once("nav.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -67,7 +68,7 @@
             <div class="col-md-6 mb-4">
                 <div class="card">
                     <div class="video-container">
-                        <video  widht="100%" height="100%" controls autoplay muted><source src="./Images/pushup.mp4">
+                        <video  widht="100%" height="100%" controls autoplay muted><source src="./Images/push.mp4"></video>
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Video Title</h5>
@@ -132,7 +133,7 @@ For a good starting point, try doing 5–10 push-ups at a time. Once that starts
                     <div class="card-body">
                         <h5 class="card-title">Explore more </h5>
                         <p class="card-text">Check out this interesting video on YouTube:</p>
-                        <a href="https://www.youtube.com/watch?v=Z6lQ4EIJ2mE" class="btn btn-primary" target="_blank">Watch Now</a>
+                        <a href="https://youtu.be/ypxmdLxCK7k?si=a2pNpiPC8iV48kCG" class="btn btn-primary" target="_blank">Watch Now</a>
                     </div>
                 </div>
             </div>

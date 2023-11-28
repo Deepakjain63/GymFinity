@@ -152,6 +152,7 @@ section .section-title {
 <section id="team" class="pb-5">
     <div class="container">
         <h5 class="section-title h1">Exercise</h5>
+        
         <div class="row">
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
@@ -172,7 +173,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Push-ups</h4>
                                     <p class="card-text">The most common physical workout routine of modern times, push-ups help us to improve core strength and the upper body.</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="push.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +200,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Running</h4>
                                     <p class="card-text">Running (like other types of aerobic exercise) can boost your mood, energy levels, memory, and focus, and improve your cardiovascular health, respiratory function, and bone density.</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="running.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -224,7 +225,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Pull Up</h4>
                                     <p class="card-text">The most common physical workout routine of modern times, push-ups help us to improve core strength and the upper body.</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="pull.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -249,7 +250,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Sqauts</h4>
                                     <p class="card-text">A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up.</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="sqauts.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +275,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Dead lift</h4>
                                     <p class="card-text">The deadlift is one of the best exercises around, period. Whether you want to build muscle, burn fat, increase athleticism, or focus purely on gaining strength, it's the one movement every lifter must do..</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="dead.php">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -299,7 +300,7 @@ section .section-title {
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Crunches</h4>
                                     <p class="card-text">The crunch is a classic core exercise. It specifically trains your abdominal muscles, which are part of your core.</p>
-                                    <button type="button" class="btn btn-outline-info">Read more</button>
+                                    <a href="crunches.php">Read more</a>
                                 </div>
                             </div>
                         </div>
