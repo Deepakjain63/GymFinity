@@ -65,16 +65,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 mb-4">
-                <div class="card">
-                    <div class="video-container">
-                        <video  widht="100%" height="100%" controls autoplay muted><source src="./Images/push.mp4"></video>
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Video Title</h5>
-                        <p class="card-text">Watch the video below.</p>
-                    </div>
-                </div>
             </div>
 
             <div class="col-md-6 mb-4">

@@ -73,10 +73,10 @@ body {
 <body>
 <ul class="snip1226">
   <li class="current"><a href="#" data-hover="Home">Home</a></li>
-  <li><a href="#" data-hover="Images">Images </a></li>  
+  <li><a href="img.php" data-hover="Images">Images </a></li>  
   <li><a href="bmi.php" data-hover="Check your fitness">Check your fitness </a></li>
   <li><a href="home.php" data-hover="Home workout">Home workout</a></li>
-  <li><a href="plan.php" data-hover="Join">Join</a></li>
+  <li><a href="login.php" data-hover="Join">Join</a></li>
   <li><a href="#abt" data-hover="About Us">About Us</a></li>
   <li><a href="contact.php" data-hover="Contact">Contact</a></li>
 

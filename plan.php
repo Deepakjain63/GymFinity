@@ -80,7 +80,7 @@
                 <li>Monthly fitness assessment</li>
             </ul>
             <p class="price">$29.99/month</p>
-            <a href="#" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
+            <a href="payment.php" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
                 onmouseover="this.style.backgroundColor='#2980b9'" onmouseout="this.style.backgroundColor='#3498db'">Continue with this plan</a>
        
         </div>
@@ -94,7 +94,7 @@
                 <li>Weekly group classes</li>
             </ul>
             <p class="price">$49.99/month</p>
-            <a href="#" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
+            <a href="payment.php" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
                 onmouseover="this.style.backgroundColor='#2980b9'" onmouseout="this.style.backgroundColor='#3498db'">Continue with this plan</a>
        
 
@@ -111,7 +111,7 @@
                 
             </ul>
             <p class="price">$79.99/month</p>
-            <a href="#" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
+            <a href="payment.php" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #3498db; color: #fff; border-radius: 5px; transition: background-color 0.3s;"
                 onmouseover="this.style.backgroundColor='#2980b9'" onmouseout="this.style.backgroundColor='#3498db'">Continue with this plan</a>
         </div>
 

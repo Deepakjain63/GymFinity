@@ -227,7 +227,7 @@
 
 				<div>
 					<i class="fa fa-phone"></i>
-					<p>+91 9389913052</p>
+					<p>+91 7505644760</p>
 				</div>
 
 				<div>
@@ -240,7 +240,7 @@
 			<div class="footer-right">
 
 				<p class="footer-company-about">
-					<span>About Usy</span>
+					<span>About Us</span>
 					In this side you will acess all the facility of gym .
 				</p>
 

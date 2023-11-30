@@ -116,7 +116,7 @@ form, .content {
 </style>
 
 	
-	</style>
+	
 </head>
 <body>
   <div class="header">
@@ -128,7 +128,7 @@ form, .content {
   	 <?php include('errors.php'); ?> 
   	<div class="input-group">
   		<label>Email</label>
-  		<input type="text" name="" >
+  		<input type="text" name="email" >
   	</div>
   	<div class="input-group">
   		<label>Password</label>
